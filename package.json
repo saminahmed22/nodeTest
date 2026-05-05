@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "ejs": "^5.0.2",
     "express": "^5.2.1"
   },
   "name": "nodetest",
@@ -20,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/saminahmed22/nodeTest/issues"
   },
-  "homepage": "https://github.com/saminahmed22/nodeTest#readme"
+  "homepage": "https://github.com/saminahmed22/nodeTest#readme",
+  "devDependencies": {
+    "prettier-plugin-ejs": "^1.0.3"
+  }
 }
